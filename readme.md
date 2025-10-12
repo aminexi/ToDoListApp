@@ -35,5 +35,3 @@ Elle permet de **créer, lire, mettre à jour et supprimer (CRUD)** des tâches,
 
 
 
-## Structure du projet
-
